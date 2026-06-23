@@ -39,6 +39,7 @@
             fastapi
             httpx
             mcp
+            numpy
             psutil
             pydantic
             pydantic-settings
